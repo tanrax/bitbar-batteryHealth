@@ -35,4 +35,4 @@ and edit your `pluginsPath` key.
 
 ## License
 
-MIT License, Copyright (c) 2016 Andros Fenollosa
+MIT License, Copyright (c) 2016 [Andros Fenollosa](https://programadorwebvalencia.com)
